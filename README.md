@@ -1,2 +1,4 @@
-techtalk
+TechTalk
 ========
+
+SAMPLE APP
